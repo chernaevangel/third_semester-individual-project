@@ -1,0 +1,35 @@
+.popup{
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 715px;
+    margin-top: 300px;
+    width: 25%;
+    height: 20vh;
+    background-color: rgb(245, 241, 241);
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.popup-inner{
+    position: relative;
+    padding: 32px;
+    width: 700px;
+    height: 25vh;
+    max-width: 740px;
+    background-color: rgb(199, 236, 208);
+    border: 1px solid rgb(120, 118, 118);
+    border-radius: 10px;
+   
+}
+
+.popup-inner .close-btn{
+    position: absolute;
+    top: 16px;
+    right: 25px;
+    width: 130px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: rgb(7, 0, 0);
+    color: white;
+}

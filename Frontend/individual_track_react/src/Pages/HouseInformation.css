@@ -1,0 +1,168 @@
+.capacity{
+    float: left;
+    margin-left:10%;
+}
+.availability{
+    float: left;
+    margin-left:10%;
+}
+
+.landlord{
+    float: left;
+}
+
+.button {
+    float: left;
+    margin-left: 1%;
+}
+
+.goBack{
+    width: 550px;
+    margin-bottom: 1%;
+	padding-left: -30%;
+	margin-right: 20%;
+}
+
+.aboutusWrapper{
+	border-radius: 10px;
+	height: 80%;
+	width: 96%;
+	margin-top: 1%;
+	margin-bottom: 4%;
+	margin-left: 2%;
+	margin-right: 2%;
+	overflow-x: hidden;
+	background-color: rgb(228, 245, 225);
+}
+
+.leftSEction{
+	
+	float: left;
+	width: 50%;
+	height: 100%;
+	padding-left: 1%;
+	padding-top: 2%;
+ 
+}
+
+.rightSection{
+	
+	float: left;
+	width: 50%;
+	height: 100%;
+	
+}
+
+.picture{
+	height: 60%;
+	width: 60%;
+	margin-left: 22%;
+	margin-top: 4%;
+	
+}
+
+.picture img{
+	width: 100%;
+	height: auto;
+	border-radius: 8px;
+}
+
+.day{
+	
+	float: left;
+	margin-right: 15px;
+	font-size: 18px;
+}
+
+.two-days{
+
+	float: left;
+	margin-right: 15px;
+	font-size: 18px;
+}
+
+.three-days{
+	font-size: 18px;
+	float: left;
+}
+
+.cOntainer{
+	width: 70%;
+	height: 100%;
+	display: block;
+	margin:auto;
+	padding-top: 45px;
+}
+
+.content-Section{
+	
+	float: left;
+	width: 55%;
+
+}
+
+.content-Section .tItle{
+	text-transform: uppercase;
+	font-size: 28px;
+
+}
+
+.content-Section .cOntent h3{
+
+	margin-top: 20px;
+	color:#5d5d5d;
+	font-size: 21px;
+}
+.content-Section .cOntent p{
+	margin-top: 10px;
+	font-family: sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+}
+.content-Section .cOntent .buttonAboutus{
+	margin-top: 30px;
+	margin-bottom: 10%;
+}
+.content-Section .cOntent .buttonAboutus a{
+	background-color: #3d3d3d;
+	padding:12px 40px;
+	text-decoration: none;
+	color:#fff;
+	font-size: 25px;
+	letter-spacing: 1.5px;
+}
+.content-Section .cOntent .buttonAboutus a:hover{
+	background-color: #428504;
+	color:#fff;
+}
+.content-Section{
+	float:none;
+	width:100%;
+	display: block;
+	margin:auto;
+}
+.content-Section .tItle{
+	text-align: center;
+	font-size: 19px;
+}
+.content-Section .cOntent .buttonAboutus{
+	text-align: center;
+}
+.content-Section .cOntent .buttonAboutus a{
+	padding:9px 30px;
+}
+
+.butonki{
+   padding-right: 6%;
+   margin-bottom: 5%;
+	width: 100%;
+}
+
+.buttonAboutus{
+	float: left;
+	width: 50%;
+	background-color: rgb(19, 111, 67);
+	margin-left: 27%;
+	border-radius: 8px;
+	font-size: 180%;
+}

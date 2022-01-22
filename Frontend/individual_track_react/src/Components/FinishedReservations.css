@@ -1,0 +1,59 @@
+.finishedReservationsWrapper{
+    margin-top: 100px;
+    opacity: 0.9;
+    margin-bottom: 6%;
+}
+
+.finishedReservationsWrapper h1{
+    opacity: 0.5;
+}
+
+.ReservationItem{
+    border: 2px solid rgb(130, 128, 128);
+    border-radius: 10px;
+   background-color: rgb(210, 224, 207);
+   margin-bottom: 4%;
+  height: 200px;
+  }
+  
+  .ReserveItemInfo{
+  
+    width: 50%;
+    float: left;
+    margin-left: 120px;
+    padding: 15px;
+    padding-top: 10%;
+    padding-left: 2%;
+    font-size: 16px;
+    font-weight: bold;
+  }
+   
+  .ReserveItemControll{
+    width: 50%;
+    float: left;
+    padding: 20px;
+   
+   
+  }
+  
+  .BtnReservations{
+  width: 200px;
+  height: 45px;
+  background-color: rgb(235, 127, 77);
+  border-radius: 10px;
+  margin-bottom: 4%;
+  margin-right: 3%;
+  }
+  
+  
+  
+  .Address{
+    
+    height: 30px;
+    width: 200px;
+   margin-bottom: 1%;
+  }
+  
+  .ShortDescription{
+    margin-bottom: 1%;
+  }

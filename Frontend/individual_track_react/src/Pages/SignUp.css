@@ -1,0 +1,88 @@
+.Mala {
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    margin-top: -50px;
+    margin-left: -50px;
+    padding-left: 130px;
+    padding-top: 45px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid rgb(169, 166, 166);
+    border-radius: 10px;
+    background-color: rgb(208, 213, 207);
+}
+
+.registrationTitle{
+
+    margin-right: 140px;
+    text-align: center;
+}
+
+.registerLanldordPopUp{
+    margin-top: 25px;
+}
+.nameEmail{
+float: left;
+width: 50%;
+}
+
+.phoneVerNum{
+    float: left;
+    width: 50%;
+    
+}
+
+
+
+.registerLandlordButton{
+    background-color: rgb(63, 93, 152);
+    margin-top: 14px ;
+    margin-right: 60px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-top: 4px;
+}
+
+.register-landlord{
+    margin-top: -19px;
+}
+
+.registrationTitle h2{
+    font-size: 43px;
+}
+
+.landlordRButton{
+    background-color: rgb(96, 160, 120);
+ 
+    margin-top: 20px;
+    padding-top: 4px;
+    width: 220px;
+    border-radius: 6px;
+     font-size: 19px;
+}
+
+.Form-group{
+    margin-right: 140px;
+    text-align: center;
+   
+}
+
+.form-check{
+    
+    margin-top: 2%;
+}
+
+.ForM-group{
+    margin-right: 90px;
+}
+.Formm-group{
+    margin-right: 170px;
+    text-align: center;
+}
+
+
+.Gala{
+    margin-top: 7px;
+    max-width: 230px;
+}

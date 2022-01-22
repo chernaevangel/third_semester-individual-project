@@ -1,0 +1,115 @@
+.reservationItem{
+    border: 2px solid rgb(130, 128, 128);
+    border-radius: 10px;
+   background-color: rgb(210, 224, 207);
+   margin-bottom: 2%;
+  height: 200px;
+  }
+  
+  .reserveItemInfo{
+    width: 50%;
+    float: left;
+    padding: 15px;
+    
+    padding-left: 2%;
+    font-size: 16px;
+    font-weight: bold;
+  }
+   
+  .reserveItemControll{
+    width: 50%;
+    float: left;
+    padding: 20px;
+   
+   
+  }
+  
+  .activeBookings{
+
+ margin-top: 10%;
+ margin-bottom: 2%;
+ opacity: 0.5;
+  }
+
+  .popUpLandlordTitle{
+    margin-top: 10px ;
+    margin-bottom: 5px ;
+  }
+  .popUpLandlordTitle h1{
+ 
+    font-size: 50px;
+   margin-right: 90px;
+  }
+  
+  .popUpLandlordInfo{
+    margin-right: 60px;
+  }
+
+  .popUpLandlordInfo p{
+    font-size: 25px;
+  }
+
+  .btnReservations{
+  width: 200px;
+  height: 45px;
+  background-color: rgb(176, 205, 245);
+  border-radius: 10px;
+  margin-bottom: 4%;
+  margin-right: 3%;
+  border: 0.5px solid rgb(152, 148, 148);
+  color: black;
+  font-size: 20px;
+  opacity: 0.86;
+  }
+  
+  .btnBooking{
+    width: 200px;
+    height: 45px;
+    background-color: rgb(250, 245, 171);
+    border-radius: 10px;
+    margin-bottom: 4%;
+    margin-right: 3%;
+    margin-left: 120px;
+    color: black;
+    font-size: 20px;
+    border: 0.5px solid rgb(152, 148, 148);
+    opacity: 0.86;
+  }
+  
+  .btnReservationsCancel{
+    width: 200px;
+  height: 45px;
+  background-color: rgb(255, 134, 134);
+  border-radius: 10px;
+  margin-bottom: 4%;
+  margin-right: 3%;
+  color: black;
+  border: 0.5px solid rgb(152, 148, 148);
+  font-size: 20px;
+  opacity: 0.86;
+  }
+  .btnReservationsAccomodate{
+    width: 200px;
+    height: 45px;
+    background-color: rgb(95, 159, 82);
+    border-radius: 10px;
+    margin-bottom: 4%;
+    margin-right: 3%;
+    color: black;
+    border: 0.5px solid rgb(152, 148, 148);
+    font-size: 20px;
+    opacity: 0.86;
+  }  
+  
+  
+  .address{
+    
+    height: 30px;
+    width: 200px;
+   margin-bottom: 1%;
+  }
+  
+  .shortDescription{
+    margin-bottom: 10%;
+    margin-left: 120px;
+  }

@@ -1,0 +1,137 @@
+.clearfix:before, .clearfix:after{
+    content: "";
+    display: table;
+}
+.clearfix:after{
+    clear: both;
+}
+a{
+    color:#0067ab;
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
+.form{
+    width: 400px;
+    margin:150px;
+    padding-left: 33%;
+    margin-top: 20%;
+   
+}
+input[type='text'], input[type='email'],
+input[type='password'] {
+    width: 230px;
+    border-radius: 6px;
+    border: 1px solid #CCC;
+    padding: 10px;
+    color: #333;
+    font-size: 14px;
+    margin-top: 10px;
+   
+    
+}
+input[type='submit']{
+    padding: 10px 25px 8px;
+    color: #fff;
+    background-color:   #e7d03a;
+    text-shadow: rgba(231,208,58,0.24) 0 1px 0;
+    font-size: 16px;
+    box-shadow: rgba(231,208,58,0.24) 0 2px 0 0 inset,#fff 0 1px 0 0;
+    border: 1px solid  #e7d03a; 
+    border-radius: 2px;
+    margin-top: 10px;
+    cursor:pointer;
+    padding-left: 8%
+}
+h1 {
+    font-size: 25spx;
+    display: inline;
+}
+
+
+input[type='submit']:hover {
+    background-color: f0df74;
+    
+}
+
+.opakovka {
+   background-color: rgb(173, 204, 180);
+   margin-left: 10%;
+   margin-right: 10%;
+   width: 80%;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+}
+.notLoggedIn{
+    
+    height: 30px;
+ 
+    margin-right: 135px;
+    margin-top: 10px;
+}
+
+.notLoggedIn p{
+    font-size: 16px;
+   
+   }
+
+.loginTitle{
+   
+    margin-right: 140px;
+    text-align: center;
+    
+}
+.loginTitle h2{
+    font-size: 43px;
+}
+
+.form-group{
+   
+    margin-right: 140px;
+}
+
+.mala {
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    margin-top: -50px;
+    margin-left: -50px;
+    padding-left: 130px;
+    padding-top: 80px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid rgb(169, 166, 166);
+    border-radius: 10px;
+    background-color: rgb(208, 213, 207);
+}
+
+.form-control-email{
+    background-color: 1px solid black;
+    
+}
+.landlordLogin h4{
+    margin-left: 60px;
+}
+
+.landlordLogin{
+    margin-top: -20px;
+}
+
+.loginLandlordButton{
+    background-color: rgb(63, 93, 152);
+    margin-top: 14px ;
+    margin-right: 1px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-top: 4px;
+}
+
+.gala{
+max-width: 230px;
+}
+
+.btn-primary {
+    background-color: rgb(15, 7, 7);
+}

@@ -1,0 +1,33 @@
+.homePage {
+    background: url('https://wallpapercave.com/wp/wp6957286.jpg')
+      no-repeat center/cover;
+      background-size: cover;
+      height: 800px;
+    
+  }
+  
+  .homePage .homePage-overlay {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .homePage .homePage-overlay h1 {
+    font-size: 36px;
+    color: rgb(206, 245, 143);
+    padding-bottom: 20px;
+  }
+
+  .homePage .homePage-overlay h1 {
+    font-size: 64px;
+  }
+
+  .homePage .homePage-overlay p {
+    font-size: 23px;
+    color: rgb(206, 245, 143);
+  }
